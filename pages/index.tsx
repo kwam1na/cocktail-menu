@@ -48,7 +48,6 @@ export default function Home() {
             name={"Might Call Out Tomorrow"}
             ingredients={["tequila", "rum", "triple sec", "cranberry juice"]}
           />
-
           <Cocktail
             name={"Go off"}
             ingredients={["whatever combinations of liquor I make, juice"]}
