@@ -17,25 +17,24 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 180px;
+  gap: 120px;
   padding: 3rem;
   min-height: 100vh;
 }
 
 .main h1 {
   display: flex;
-  font-size: 64px;
+  font-size: 40px;
   text-align: center;
-  color: #7fb069;
+  color: #d85023;
+  color: #d4af37;
 }
 
 .cocktailContainer {
   display: flex;
   flex-direction: column;
-  /* justify-content: space-evenly; */
   gap: 96px;
   align-items: center;
-  /* min-height: 100vh; */
   height: auto;
   width: 100%;
   padding: 0;
