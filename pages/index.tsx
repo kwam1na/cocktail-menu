@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Fight Night at Kwamina&apos;s</title>
+        <title>Superbowl LVIII at Kwamina&apos;s</title>
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1 maximum-scale=1"
