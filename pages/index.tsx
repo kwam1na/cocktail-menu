@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className={styles.cocktailContainer}>
           <Cocktail
-            name={"The Upper Cut"}
+            name={"The Touchdown"}
             ingredients={[
               "tequila",
               "triple sec",
@@ -30,31 +30,12 @@ export default function Home() {
             ]}
           />
           <Cocktail
-            name={"Ringside Refresher"}
+            name={"The Hail Mary"}
             ingredients={[
               "vodka",
               "vermouth",
-              "orange juice",
-              "pineapple juice",
               "cranberry juice",
             ]}
-          />
-          <Cocktail
-            name={"Heavyweight Hurricane"}
-            ingredients={[
-              "dark rum",
-              "light rum",
-              "passion fruit juice",
-              "orange juice",
-              "lime juice",
-              "simple syrup",
-              "grenadine",
-              "cherry",
-            ]}
-          />
-          <Cocktail
-            name={"The K.O"}
-            ingredients={["tequila", "rum", "triple sec", "choice of juice"]}
           />
         </div>
       </main>
