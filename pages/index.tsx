@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.headerAnimation}>
-          Fight Night at Kwamina&apos;s
+          Superbowl LVIII at Kwamina&apos;s
         </h1>
 
         <div className={styles.cocktailContainer}>
